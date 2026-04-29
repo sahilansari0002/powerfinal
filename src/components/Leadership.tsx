@@ -49,7 +49,7 @@ export function Leadership({ isDarkMode }: LeadershipProps) {
           <h3 className={`text-3xl font-bold mb-2 ${
             isDarkMode ? 'text-white' : 'text-gray-800'
           }`}>
-            Ayesha Anam
+            Aisha Anam
           </h3>
           
           <p className={`text-xl mb-6 ${

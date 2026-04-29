@@ -24,7 +24,7 @@ const resources = {
         subtitle: "From mental harassment to divorce support, from justice to marriage help — we stand with women of all ages, across India.",
         orgFull: "Women Support & Empowerment NGO – Akola (Pan India)",
         under: "Under: Human Rights Jan Kalyan Jan Seva Mandal",
-        president: "Mahila President: Ayesha Anam",
+        president: "Mahila President: Aisha Anam",
         getHelp: "Get Help Now",
         contact: "Contact Us",
         donate: "Donate / Support",
